@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<ns6:modelConfig xsi:type="ns6:ModelConfig" folder="" pauseCalculations="false" entityCode="1" loadPath="newPushTest" entityName="newPushTest" version="5" name="newPushTest" lastUpdated="2025-01-22T11:34:38.132+02:00" lastUpdatedBy="admin" id="admin:MODEL:newPushTest" xmlns:ns6="http://www.modelshop.com/model/model/types" xmlns:ns5="http://www.modelshop.com/datacore/generator/types" xmlns:ns2="http://www.modelshop.com/datacore/view/types" xmlns:ns4="http://www.modelshop.com/datacore/repository/types" xmlns:ns3="http://www.modelshop.com/datacore/message/types" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <views allColumns="true" default="true" modelView="true" entityName="newPushTest" name="newPushTest" description="Default view for list newPushTest" id="newPushTest"/>
+</ns6:modelConfig>
